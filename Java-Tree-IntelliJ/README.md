@@ -49,20 +49,7 @@ Java-Tree-IntelliJ/
                 └── TreeType.java
 ```
 
-## Feltöltés GitHubra
 
-A projekt gyökérmappájában:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <A_GITHUB_REPOSITORY_URL_JE>
-git push -u origin main
-```
-
-A `<A_GITHUB_REPOSITORY_URL_JE>` helyére a saját üres GitHub repository URL-je kerüljön.
 
 ## Megjegyzés
 
