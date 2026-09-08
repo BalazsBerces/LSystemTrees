@@ -49,8 +49,3 @@ Java-Tree-IntelliJ/
                 └── TreeType.java
 ```
 
-
-
-## Megjegyzés
-
-Az eredeti IntelliJ-specifikus `.idea` és `.iml` fájlok nincsenek a projektben, mert ezek gép- és IDE-beállításokat tartalmazhatnak. IntelliJ a `pom.xml` alapján újragenerálja őket.
